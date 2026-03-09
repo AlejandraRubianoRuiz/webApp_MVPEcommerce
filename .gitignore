@@ -1,0 +1,27 @@
+# Dependencias de Node (tanto backend como frontend)
+**/node_modules/
+**/package-lock.json   # opcional, si prefieres subirlo (normalmente sí se sube)
+
+# Archivos de entorno (pueden contener claves secretas)
+.env
+.env.local
+.env.*.local
+
+# Carpeta de build / dist (generados por el frontend)
+frontend/webApp/dist/
+frontend/webApp/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE (VS Code, etc.)
+.vscode/
+.idea/
+*.sublime-*
