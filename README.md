@@ -78,7 +78,7 @@ Database
 ## Screenshots
 
 ### Home Page
-![Home Page](dashboard-client/home.png)
+![Home Page](screenshots/dashborad-client.png)
 
 ### Shopping Cart
 ![Shopping Cart](screenshots/shopping-cart.png)
